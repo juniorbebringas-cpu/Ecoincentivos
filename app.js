@@ -1,4 +1,4 @@
-const contractAddress = "0xDf71c46C3ed8be73bF54c37138e7be76657b16C6";
+const contractAddress = "0x55964da60e39883b3ed047fe27691270c2e1ad69";
 
 let provider;
 let signer;
